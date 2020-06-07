@@ -1,5 +1,5 @@
 # OSMap
 
-## Installation
+## Installation (in python)
 
 `pip install osmapi`
