@@ -2,4 +2,4 @@
 
 ## Installation (in python)
 
-`pip install osmapi`
+`pip install osmnx`
